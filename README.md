@@ -1,6 +1,6 @@
 # chool_check
 
-A new Flutter project.
+플루터를 공부하기 위해서 만든 출첵 어플입니다! 😆
 
 ## Getting Started
 
